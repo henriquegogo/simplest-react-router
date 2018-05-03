@@ -3,15 +3,16 @@
   "version": "0.0.1",
   "description": "The simplest router for React apps",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "repository": "henriquegogo/simplest-react-router",
   "keywords": [
     "react",
     "router"
   ],
   "author": "Henrique Gogó <henriquegogo@gmail.com> (http://henriquegogo.github.io)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henriquegogo/simplest-react-router/issues"
+  },
   "dependencies": {
     "react": "^16.3.2"
   }
